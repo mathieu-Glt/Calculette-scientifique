@@ -1,0 +1,133 @@
+body {
+	font-size: 30px;
+	font-family: bold;
+}
+
+
+.blue {
+	background-color: #02A9FD ;
+}
+
+.red {
+	background-color: #FD1102;
+}
+
+.yellow {
+	background-color: #FDC802 ;
+}
+
+.violet {
+	background-color: #AD02FD ;
+}
+
+.buttonOrange {
+	background-color: #FF5E02;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.buttonRed {
+	background-color: #FD1102;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonRed1 {
+	background-color: #FF003E;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonBlue {
+	background-color: #02A9FD;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonBlue1 {
+	background-color: #08FFD2;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonBlue2 {
+	background-color: #0866FF;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonBlue3 {
+	background-color: #1900B9;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonBlue4 {
+	background-color: #00D1FF;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonYellow {
+	background-color: #FDC802;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonYellow1 {
+	background-color: #F7FF02;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonPurple {
+	background-color: #AD02FD;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonPink {
+	background-color: #F64EC8;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonGreen {
+	background-color: #25A608;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonBrown {
+	background-color: #975537;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonBrown1 {
+	background-color: #643518;
+	padding: 5px;
+	border-radius: 5px;
+
+}
+
+.buttonBlack {
+	background-color: black;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+
+}
