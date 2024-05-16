@@ -9,6 +9,7 @@ This calculator lets you perform arithmetic calculations, from simple ones like 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80" /> 
 
  ## Overview  
-
- 
-
+![Capture d'écran 2024-05-16 115452](https://github.com/mathieu-Glt/Calculette-scientifique/assets/84771497/ec24be76-5f34-4250-9bf8-bdc84e454d17) 
+![Capture d'écran 2024-05-16 115437](https://github.com/mathieu-Glt/Calculette-scientifique/assets/84771497/f0171f07-2886-4625-b3e2-35c5ffa73dac) 
+![Capture d'écran 2024-05-16 115336](https://github.com/mathieu-Glt/Calculette-scientifique/assets/84771497/200e2aa6-35c3-4ab4-8750-889c2b7470e0) 
+![Capture d'écran 2024-05-16 115415](https://github.com/mathieu-Glt/Calculette-scientifique/assets/84771497/bf2a48ea-2f7a-48c5-a03b-7d913208bb38)
